@@ -1,4 +1,12 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=[FFFFFF]&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
 ## Hi, my name is Eduardo 👋
+
+
 
 <!--
 **dus4nt/dus4nt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#
+
 
 <p align="center">Systems Analysis and Development student at the Faculty of UNG. I'm currently looking for my first job in the area. I am constantly updating my knowledge and looking for new challenges in the technology area. I have a passion for learning and applying this knowledge to create innovative solutions.
   
